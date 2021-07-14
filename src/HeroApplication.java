@@ -96,14 +96,6 @@ public class HeroApplication {
         System.out.println("Hero average daily salary is " + averageDailySalaryWithNewSalary + " euro.");
 
         char grade;
-        char gradeA = 'A';
-        char gradeB = 'B';
-        char gradeC = 'C';
-        char gradeD = 'D';
-        char gradeE = 'E';
-        char gradeF = 'F';
-        char gradeG = 'G';
-        char gradeH = 'H';
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please, enter a grade (one of these: A, B, C, D, E, F, G, H) ");
